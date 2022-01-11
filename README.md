@@ -8,9 +8,9 @@
 * In the main KiCAD window, click "Preferences > Configure paths", and then click the plus button to add a new path.
 * For the name, call it "WILLIAM", and for the path, set it to where you cloned this repo, for example, "C:\path\to\will-kicad-lib. Then click OK.
 * Now, click "Preferences>Manage Symbol Libraries" and make sure you're in the "Global Libraries" tab.
-* Click the plus button, put "William" for the nickname, and put "${WILLIAM}/symbols/william.kicad_sym" for the library path. Then click OK.
+* Click the plus button, put "William" for the nickname, and put "${WILLIAM}/symbols/William.kicad_sym" for the library path. Then click OK.
 * Now, click "Preferences>Manage Footprint Libraries" and make sure you're in the "Global Libraries" tab.
-* Click the plus button, put "William" for the nickname, and put "${WILLIAM}/footprints/william.pretty" for the library path. Then click OK.
+* Click the plus button, put "William" for the nickname, and put "${WILLIAM}/footprints/William.pretty" for the library path. Then click OK.
 * At this point, my library is set up, and you can now freely use the components in KiCAD.
 
 ### Moving the Library ###
